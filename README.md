@@ -10,7 +10,7 @@ either on my own or as part of a team.
   * Python,  
     Javascript, PHP,
     HTML, CSS,  
-    Java, C  
+    Java, C, R
 
 - **Databases:**
   * MySQL / PGSQL

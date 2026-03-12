@@ -15,6 +15,9 @@ either on my own or as part of a team.
 - **Databases:**
   * MySQL / PGSQL
 
+- **Tools:**
+  * Symfony
+
 ## 📫 How to reach me
 
 - Email:  
